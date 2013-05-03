@@ -2,6 +2,9 @@
 
 namespace Timus_1313
 {
+    /* ALGORITHM:
+     * No algorithm really. Just output the correct numbers by playing with the loop variables...
+     */
     public class Program
     {
         public static void Main()
